@@ -278,26 +278,114 @@
           <summary>Уральский федеральный округ</summary>
           <div class="es-district-body">
             <div class="es-region">
-              <div class="es-region-title">Ямало-Ненецкий автономный округ</div>
+              <div class="es-region-title">Ямало-Ненецкий АО — основные города и районные центры</div>
               <ul class="es-cities">
-                <li class="es-priority">Салехард</li><li>Лабытнанги</li><li>Харп</li><li class="es-priority">Аксарка</li><li class="es-priority">Тазовский</li>
-                <li class="es-priority">Антипаюта</li><li class="es-priority">Сеяха</li><li class="es-priority">Гыда</li><li class="es-priority">Мыс Каменный</li><li class="es-priority">Сабетта</li>
-                <li class="es-priority">Панаевск</li><li>Тарко-Сале</li><li>Пурпе</li><li>Новый Уренгой</li><li class="es-priority">Уренгой</li>
-                <li>Пангоды</li><li>Губкинский</li><li>Надым</li><li>Муравленко</li><li>Ноябрьск</li>
-                <li class="es-priority">Ямбург</li><li>Заполярный</li><li class="es-priority">Яр-Сале</li><li class="es-priority">Мужи</li><li class="es-priority">Красноселькуп</li>
-                <li class="es-priority">Се-Яха</li><li class="es-priority">Новый Порт</li><li class="es-priority">Самбург</li><li class="es-priority">Харасавэй</li><li class="es-priority">Бованенково</li>
-                <li class="es-priority">Тамбей</li><li class="es-priority">Находка</li><li class="es-priority">Толька</li><li class="es-priority">Кутопьюган</li>
+                <li class="es-priority">Салехард</li><li>Лабытнанги</li><li>Харп</li><li>Новый Уренгой</li><li>Надым</li>
+                <li>Ноябрьск</li><li>Муравленко</li><li>Губкинский</li><li>Тарко-Сале</li><li class="es-priority">Яр-Сале</li>
+                <li class="es-priority">Красноселькуп</li><li class="es-priority">Тазовский</li><li class="es-priority">Аксарка</li><li>Пангоды</li><li>Пурпе</li>
+                <li class="es-priority">Мужи</li><li class="es-priority">Панаевск</li><li class="es-priority">Толька</li><li class="es-priority">Кутопьюган</li><li>Заполярный</li>
               </ul>
             </div>
             <div class="es-region">
-              <div class="es-region-title">Ханты-Мансийский автономный округ — Югра</div>
+              <div class="es-region-title">Ямало-Ненецкий АО — Ямал и Гыданский п-ов</div>
               <ul class="es-cities">
-                <li>Ханты-Мансийск</li><li>Сургут</li><li>Нижневартовск</li><li>Нефтеюганск</li><li>Нягань</li>
-                <li>Когалым</li><li>Лангепас</li><li>Мегион</li><li>Урай</li><li>Радужный</li>
-                <li class="es-priority">Берёзово</li><li>Белоярский</li><li class="es-priority">Игрим</li><li class="es-priority">Приобье</li><li class="es-priority">Саранпауль</li>
-                <li>Октябрьское</li><li>Советский</li><li>Пыть-Ях</li><li>Покачи</li><li>Югорск</li>
-                <li class="es-priority">Угут</li><li class="es-priority">Казым</li><li class="es-priority">Варьеган</li><li class="es-priority">Аган</li><li class="es-priority">Тром-Аган</li>
-                <li class="es-priority">Хулимсунт</li><li class="es-priority">Русскинские</li><li class="es-priority">Сытомино</li>
+                <li class="es-priority">Бованенково</li><li class="es-priority">Сабетта</li><li class="es-priority">Тамбей</li><li class="es-priority">Новый Порт</li><li class="es-priority">Мыс Каменный</li>
+                <li class="es-priority">Харасавэй</li><li class="es-priority">Сеяха</li><li class="es-priority">Гыда</li><li class="es-priority">Антипаюта</li><li class="es-priority">Юрибей</li>
+                <li class="es-priority">Находка</li><li class="es-priority">Паютино</li><li class="es-priority">Яптик-Сале</li><li class="es-priority">Ямбург</li><li class="es-priority">Уренгой</li>
+                <li class="es-priority">Ярояха</li><li class="es-priority">Еты-Пур</li><li class="es-priority">Нумги</li><li class="es-priority">Юрибей-2</li><li class="es-priority">Нейтинское</li>
+                <li class="es-priority">Неромаяха</li><li class="es-priority">Юрибей-1</li><li class="es-priority">Салемал</li><li class="es-priority">Се-Яха</li><li class="es-priority">Ярсалинская</li>
+                <li class="es-priority">Мордыяха</li><li class="es-priority">Надуйяха</li><li class="es-priority">Сюнай-Сале</li><li class="es-priority">Сёяха</li><li class="es-priority">Тибей-Сале</li>
+                <li class="es-priority">Лаборовая</li><li class="es-priority">Яр-Сале-2</li><li class="es-priority">Нгарка-Харвута</li><li class="es-priority">Ныда</li><li class="es-priority">Сё-Яха</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Ямало-Ненецкий АО — месторождения и вахтовые поселки</div>
+              <ul class="es-cities">
+                <li class="es-priority">Заполярное</li><li class="es-priority">Медвежье</li><li class="es-priority">Уренгойское</li><li class="es-priority">Ямбургское</li><li class="es-priority">Находка</li>
+                <li class="es-priority">Комсомольское</li><li class="es-priority">Юрхаровское</li><li class="es-priority">Песцовое</li><li class="es-priority">Ен-Яхинское</li><li class="es-priority">Ново-Уренгойское</li>
+                <li class="es-priority">Губкинское</li><li class="es-priority">Холмогорское</li><li class="es-priority">Романовское</li><li class="es-priority">Харампурское</li><li class="es-priority">Ванкорское</li>
+                <li class="es-priority">Заполярное НГКМ</li><li class="es-priority">Русское</li><li class="es-priority">Северо-Комсомольское</li><li class="es-priority">Восточно-Уренгойское</li><li class="es-priority">Южно-Русское</li>
+                <li class="es-priority">Еты-Пуровское</li><li class="es-priority">Ярудейское</li><li class="es-priority">Тазовское</li><li class="es-priority">Мессояха</li><li class="es-priority">Суторминское</li>
+                <li class="es-priority">Новопортовское</li><li class="es-priority">Арктическое</li><li class="es-priority">Таналау</li><li class="es-priority">Северо-Уренгойское</li><li class="es-priority">Самбургское</li>
+                <li class="es-priority">Вынгапуровское</li><li class="es-priority">Вынгаяхинское</li><li class="es-priority">Западно-Таркосалинское</li><li class="es-priority">Пякяхинское</li><li class="es-priority">Ямсовейское</li>
+                <li class="es-priority">Тотаяхинское</li><li class="es-priority">Малыгинское</li><li class="es-priority">Верхне-Тиутейское</li><li class="es-priority">Береговое</li><li class="es-priority">Западно-Мессояхское</li>
+                <li class="es-priority">Утреннее</li><li class="es-priority">Крузенштернское</li><li class="es-priority">Каменномысское-море</li><li class="es-priority">Северо-Каменномысское</li><li class="es-priority">Южно-Тамбейское</li>
+                <li class="es-priority">Салмановское</li><li class="es-priority">Малоямальское</li><li class="es-priority">Ростовцевское</li><li class="es-priority">Нурминское</li><li class="es-priority">Западно-Сэяхинское</li>
+                <li class="es-priority">Среднеямальское</li><li class="es-priority">Ново-Портовское</li><li class="es-priority">Парусное</li><li class="es-priority">Верхне-Русское</li><li class="es-priority">Новобайновское</li>
+                <li class="es-priority">Чатылькинское</li><li class="es-priority">Точинское</li><li class="es-priority">Геофизическое</li><li class="es-priority">Тадебеяхинское</li><li class="es-priority">Северо-Часельское</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Ямало-Ненецкий АО — Пуровский и Надымский районы</div>
+              <ul class="es-cities">
+                <li class="es-priority">Уренгой</li><li class="es-priority">Лимбяяха</li><li class="es-priority">Ханымей</li><li class="es-priority">Коротчаево</li><li class="es-priority">Пуровск</li>
+                <li class="es-priority">Самбург</li><li class="es-priority">Пякяха</li><li class="es-priority">Ямбург</li><li class="es-priority">Правохеттинский</li><li class="es-priority">Находка</li>
+                <li class="es-priority">Кузоваткин</li><li class="es-priority">Сывдарма</li><li class="es-priority">Пангоды</li><li class="es-priority">Газ-Сале</li><li class="es-priority">Тарко-Сале</li>
+                <li class="es-priority">Харампур</li><li class="es-priority">Халясавэй</li><li class="es-priority">Пуровская</li><li class="es-priority">Уренгойская</li><li class="es-priority">Красноселькупская</li>
+                <li class="es-priority">Самбургская</li><li class="es-priority">Толькинская</li><li class="es-priority">Харампурская</li><li class="es-priority">Ратта</li><li class="es-priority">Тол-Посёлок</li>
+                <li class="es-priority">Карамкары</li><li class="es-priority">Нумто</li><li class="es-priority">Нумгинская</li><li class="es-priority">Ярынская</li><li class="es-priority">Куть-Ях</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Ямало-Ненецкий АО — Ямальский и Приуральский районы</div>
+              <ul class="es-cities">
+                <li class="es-priority">Сеяха</li><li class="es-priority">Яр-Сале</li><li class="es-priority">Мыс Каменный</li><li class="es-priority">Новый Порт</li><li class="es-priority">Панаевск</li>
+                <li class="es-priority">Аксарка</li><li class="es-priority">Яптик-Сале</li><li class="es-priority">Мордыяха</li><li class="es-priority">Салемал</li><li class="es-priority">Се-Яха</li>
+                <li class="es-priority">Сюнай-Сале</li><li class="es-priority">Ярсалинская</li><li class="es-priority">Паютино</li><li class="es-priority">Щучье</li><li class="es-priority">Кутопьюган</li>
+                <li class="es-priority">Мужи</li><li class="es-priority">Восяхово</li><li class="es-priority">Шуга</li><li class="es-priority">Горки</li><li class="es-priority">Ярудей</li>
+                <li class="es-priority">Ныда</li><li class="es-priority">Белый Яр</li><li class="es-priority">Аксарка-2</li><li class="es-priority">Овгорт</li><li class="es-priority">Харсаим</li>
+                <li class="es-priority">Питляр</li><li class="es-priority">Гыда</li><li class="es-priority">Юрибей</li><li class="es-priority">Лабытнанги</li><li class="es-priority">Харп</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Ханты-Мансийский АО — основные города</div>
+              <ul class="es-cities">
+                <li>Ханты-Мансийск</li><li>Сургут</li><li>Нижневартовск</li><li>Нефтеюганск</li><li>Когалым</li>
+                <li>Нягань</li><li>Лангепас</li><li>Мегион</li><li>Урай</li><li>Радужный</li>
+                <li>Пыть-Ях</li><li>Югорск</li><li>Покачи</li><li>Лянтор</li><li>Федоровский</li>
+                <li>Белоярский</li><li>Советский</li><li>Октябрьское</li><li class="es-priority">Берёзово</li><li>Излучинск</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Ханты-Мансийский АО — северные и труднодоступные районы</div>
+              <ul class="es-cities">
+                <li class="es-priority">Берёзово</li><li class="es-priority">Игрим</li><li class="es-priority">Саранпауль</li><li class="es-priority">Приобье</li><li class="es-priority">Угут</li>
+                <li class="es-priority">Казым</li><li class="es-priority">Хулимсунт</li><li class="es-priority">Русскинские</li><li class="es-priority">Сытомино</li><li class="es-priority">Полноват</li>
+                <li class="es-priority">Сосьва</li><li class="es-priority">Няксимволь</li><li class="es-priority">Ванзеват</li><li class="es-priority">Ломбовож</li><li class="es-priority">Тегинский</li>
+                <li class="es-priority">Унъюган</li><li class="es-priority">Кышик</li><li class="es-priority">Шеркалы</li><li class="es-priority">Нялинское</li><li class="es-priority">Ямгорт</li>
+                <li class="es-priority">Казым-Мыс</li><li class="es-priority">Часелька</li><li class="es-priority">Теги</li><li class="es-priority">Ларьяк</li><li class="es-priority">Корлики</li>
+                <li class="es-priority">Вата</li><li class="es-priority">Юильск</li><li class="es-priority">Селиярово</li><li class="es-priority">Батлым</li><li class="es-priority">Верх-Нильдино</li>
+                <li class="es-priority">Ванзеват</li><li class="es-priority">Шухтунгорт</li><li class="es-priority">Леуши</li><li class="es-priority">Кондинское</li><li class="es-priority">Мортка</li>
+                <li class="es-priority">Кама</li><li class="es-priority">Сайгатина</li><li class="es-priority">Лемпино</li><li class="es-priority">Шугур</li><li class="es-priority">Сартынья</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Ханты-Мансийский АО — Сургутский и Нижневартовский районы</div>
+              <ul class="es-cities">
+                <li class="es-priority">Варьеган</li><li class="es-priority">Аган</li><li class="es-priority">Тром-Аган</li><li class="es-priority">Лянтор</li><li class="es-priority">Федоровский</li>
+                <li class="es-priority">Излучинск</li><li class="es-priority">Локосово</li><li class="es-priority">Барсово</li><li class="es-priority">Нижнесортымский</li><li class="es-priority">Лянторский</li>
+                <li class="es-priority">Высокий Мыс</li><li class="es-priority">Белый Яр</li><li class="es-priority">Сытомино</li><li class="es-priority">Покур</li><li class="es-priority">Пим</li>
+                <li class="es-priority">Русскинская</li><li class="es-priority">Каюкова</li><li class="es-priority">Зайцева Речка</li><li class="es-priority">Чехломей</li><li class="es-priority">Большой Ларьяк</li>
+                <li class="es-priority">Корлики</li><li class="es-priority">Ларьяк</li><li class="es-priority">Охтеурье</li><li class="es-priority">Ваховск</li><li class="es-priority">Новоаганск</li>
+                <li class="es-priority">Средний Васюган</li><li class="es-priority">Новый Васюган</li><li class="es-priority">Халеево</li><li class="es-priority">Вампугольск</li><li class="es-priority">Мегион</li>
+                <li class="es-priority">Аганские Юрты</li><li class="es-priority">Корлики</li><li class="es-priority">Былино</li><li class="es-priority">Малоюганск</li><li class="es-priority">Салым</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Ханты-Мансийский АО — месторождения и вахтовые поселки</div>
+              <ul class="es-cities">
+                <li class="es-priority">Самотлор</li><li class="es-priority">Мамонтовское</li><li class="es-priority">Приобское</li><li class="es-priority">Красноленинское</li><li class="es-priority">Федоровское</li>
+                <li class="es-priority">Ватинское</li><li class="es-priority">Суторминское</li><li class="es-priority">Быстринское</li><li class="es-priority">Салымское</li><li class="es-priority">Малобалыкское</li>
+                <li class="es-priority">Лянторское</li><li class="es-priority">Тевлинско-Русскинское</li><li class="es-priority">Варьеганское</li><li class="es-priority">Покачёвское</li><li class="es-priority">Аганское</li>
+                <li class="es-priority">Тагринское</li><li class="es-priority">Повховское</li><li class="es-priority">Ватьеганское</li><li class="es-priority">Локосовское</li><li class="es-priority">Правдинское</li>
+                <li class="es-priority">Северо-Покурское</li><li class="es-priority">Западно-Асомкинское</li><li class="es-priority">Усть-Балыкское</li><li class="es-priority">Мегионское</li><li class="es-priority">Аригольское</li>
+                <li class="es-priority">Ермаковское</li><li class="es-priority">Вахское</li><li class="es-priority">Южно-Ягунское</li><li class="es-priority">Тайлаковское</li><li class="es-priority">Ново-Покурское</li>
+                <li class="es-priority">Западно-Сургутское</li><li class="es-priority">Вынгапуровское</li><li class="es-priority">Когалымское</li><li class="es-priority">Южно-Сургутское</li><li class="es-priority">Восточно-Сургутское</li>
+                <li class="es-priority">Лор-Еганское</li><li class="es-priority">Майское</li><li class="es-priority">Каменное</li><li class="es-priority">Северо-Ореховское</li><li class="es-priority">Западно-Мессояхское</li>
+                <li class="es-priority">Западно-Мухтоярское</li><li class="es-priority">Урьевское</li><li class="es-priority">Чистинное</li><li class="es-priority">Западно-Чистинное</li><li class="es-priority">Южно-Русское</li>
+                <li class="es-priority">Барсуковское</li><li class="es-priority">Тюменское</li><li class="es-priority">Комсомольское</li><li class="es-priority">Конитлорское</li><li class="es-priority">Тепловское</li>
+                <li class="es-priority">Карабашское</li><li class="es-priority">Западно-Асомкинское</li><li class="es-priority">Крапивинское</li><li class="es-priority">Двуреченское</li><li class="es-priority">Северо-Конитлорское</li>
+                <li class="es-priority">Трёхозёрное</li><li class="es-priority">Северо-Варьёганское</li><li class="es-priority">Сорымское</li><li class="es-priority">Северо-Даниловское</li><li class="es-priority">Восточно-Мессояхское</li>
               </ul>
             </div>
           </div>

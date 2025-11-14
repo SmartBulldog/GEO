@@ -134,37 +134,140 @@
                 <li>Кандалакша</li><li>Полярный</li><li>Снежногорск</li><li>Заозёрск</li><li>Ковдор</li>
                 <li class="es-priority">Териберка</li><li class="es-priority">Никель</li><li>Заполярный</li><li>Гаджиево</li><li>Видяево</li>
                 <li>Оленегорск</li><li>Полярные Зори</li><li>Ревда</li><li class="es-priority">Умба</li><li>Кола</li>
+                <li>Африканда</li><li>Мурмаши</li><li>Росляково</li><li class="es-priority">Дальние Зеленцы</li><li class="es-priority">Лиинахамари</li>
+                <li class="es-priority">Печенга</li><li class="es-priority">Туманный</li><li>Молочный</li><li>Высокий</li><li class="es-priority">Краснощелье</li>
+                <li class="es-priority">Лодейное</li><li class="es-priority">Ура-Губа</li><li class="es-priority">Кузомень</li><li>Верхнетуломский</li><li>Зашеек</li>
+                <li>Кильдинстрой</li><li class="es-priority">Варзуга</li><li class="es-priority">Чаваньга</li><li class="es-priority">Тетрино</li><li class="es-priority">Чапома</li>
+                <li class="es-priority">Поной</li><li class="es-priority">Каневка</li><li class="es-priority">Сосновка</li><li class="es-priority">Пялица</li><li>Зареченск</li>
+                <li>Высокий</li><li>Куропта</li><li>Зеленоборский</li><li>Ловозеро</li><li>Ревда</li>
+                <li class="es-priority">Chavanga</li><li class="es-priority">Гремиха</li><li class="es-priority">Иоканьга</li><li class="es-priority">Лумбовка</li><li>Алакуртти</li>
+                <li>Пулозеро</li><li class="es-priority">Каскама</li><li>Титан</li><li class="es-priority">Краснощелье</li><li>Верхнетуломский</li>
+                <li>Октябрьский</li><li>Верхний Ниваручей</li><li>Коашва</li><li>Кукисвумчорр</li><li>Тик-Губа</li>
+                <li class="es-priority">Трифонов Печенгский монастырь</li><li class="es-priority">Лиинахамари</li><li>Печенгское</li><li>Никель-2</li><li>Луостари</li>
+                <li>Райконкоски</li><li class="es-priority">Сальмиярви</li><li class="es-priority">Янискоски</li><li>Заполярный</li><li>Зареченск</li>
+                <li>Магнетиты</li><li>Княжая Губа</li><li>Лопарская</li><li class="es-priority">Каневка</li><li>Ёна</li>
+                <li>Салма</li><li>Ура-Губа</li><li>Енский</li><li>Маяк</li><li>Териберский берег</li>
               </ul>
             </div>
             <div class="es-region">
-              <div class="es-region-title">Архангельская область</div>
+              <div class="es-region-title">Архангельская область — север и побережье</div>
               <ul class="es-cities">
-                <li>Архангельск</li><li>Северодвинск</li><li>Новодвинск</li><li>Котлас</li><li>Коряжма</li>
-                <li>Онега</li><li class="es-priority">Мезень</li><li class="es-priority">Соловецкий</li><li class="es-priority">Лешуконское</li><li>Вельск</li>
-                <li>Шенкурск</li><li class="es-priority">Пинега</li><li class="es-priority">Карпогоры</li><li>Холмогоры</li><li class="es-priority">Яренск</li>
+                <li>Архангельск</li><li>Северодвинск</li><li>Новодвинск</li><li class="es-priority">Мезень</li><li class="es-priority">Соловецкий</li>
+                <li class="es-priority">Лешуконское</li><li>Онега</li><li class="es-priority">Пинега</li><li class="es-priority">Карпогоры</li><li>Холмогоры</li>
+                <li class="es-priority">Яренск</li><li class="es-priority">Несь</li><li class="es-priority">Долгощелье</li><li class="es-priority">Кимжа</li><li class="es-priority">Койда</li>
+                <li class="es-priority">Мудьюг</li><li class="es-priority">Зимняя Золотица</li><li class="es-priority">Летняя Золотица</li><li class="es-priority">Ручьи</li><li class="es-priority">Лопшеньга</li>
+                <li class="es-priority">Верхняя Золотица</li><li class="es-priority">Лямца</li><li class="es-priority">Пертоминск</li><li class="es-priority">Унская Губа</li><li class="es-priority">Луда</li>
+                <li class="es-priority">Мудьюг</li><li class="es-priority">Патракеевка</li><li class="es-priority">Верхняя Тойма</li><li class="es-priority">Ёрга</li><li class="es-priority">Сюзьма</li>
+                <li class="es-priority">Малошуйка</li><li class="es-priority">Нижняя Золотица</li><li class="es-priority">Сюма</li><li class="es-priority">Пурнема</li><li class="es-priority">Часовенская</li>
+                <li class="es-priority">Лопшеньга</li><li class="es-priority">Сафоново</li><li class="es-priority">Верхняя Золотица</li><li class="es-priority">Волости</li><li>Исакогорка</li>
+                <li class="es-priority">Усть-Поча</li><li class="es-priority">Вознесенье</li><li class="es-priority">Соёма</li><li class="es-priority">Калгачиха</li><li class="es-priority">Кянда</li>
+                <li class="es-priority">Сёмжа</li><li class="es-priority">Чижа</li><li class="es-priority">Дорогорское</li><li class="es-priority">Бычье</li><li class="es-priority">Кушерека</li>
+                <li class="es-priority">Дураково</li><li class="es-priority">Рочегда</li><li class="es-priority">Ёрмица</li><li class="es-priority">Селище</li><li class="es-priority">Пучуга</li>
+                <li class="es-priority">Чучепала</li><li class="es-priority">Лебяжье</li><li class="es-priority">Волоковая</li><li class="es-priority">Юрола</li><li class="es-priority">Воезеро</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Архангельская область — центр, восток</div>
+              <ul class="es-cities">
+                <li>Котлас</li><li>Коряжма</li><li>Вельск</li><li>Шенкурск</li><li class="es-priority">Красноборск</li>
+                <li>Октябрьский</li><li>Няндома</li><li>Вычегодский</li><li class="es-priority">Емецк</li><li class="es-priority">Березник</li>
+                <li class="es-priority">Верхняя Тойма</li><li class="es-priority">Устьянск</li><li class="es-priority">Шангалы</li><li class="es-priority">Моржегоры</li><li class="es-priority">Конево</li>
+                <li class="es-priority">Пукса</li><li class="es-priority">Черевково</li><li class="es-priority">Шелашская</li><li class="es-priority">Евда</li><li class="es-priority">Вершинино</li>
+                <li class="es-priority">Шеговары</li><li class="es-priority">Верхопуйский</li><li class="es-priority">Усть-Поча</li><li class="es-priority">Турчасово</li><li class="es-priority">Харитоново</li>
+                <li class="es-priority">Кодино</li><li class="es-priority">Новая Ляля</li><li class="es-priority">Коноша</li><li class="es-priority">Подюга</li><li class="es-priority">Верхняя Уфтюга</li>
+                <li class="es-priority">Тарасово</li><li class="es-priority">Ильинско-Подомское</li><li class="es-priority">Никольский</li><li class="es-priority">Ракулка</li><li class="es-priority">Белая</li>
+                <li class="es-priority">Кодино</li><li class="es-priority">Березник</li><li class="es-priority">Чучепала</li><li class="es-priority">Койнас</li><li class="es-priority">Шидровка</li>
               </ul>
             </div>
             <div class="es-region">
               <div class="es-region-title">Ненецкий автономный округ</div>
               <ul class="es-cities">
                 <li class="es-priority">Нарьян-Мар</li><li class="es-priority">Амдерма</li><li class="es-priority">Индига</li><li class="es-priority">Варандей</li><li class="es-priority">Шойна</li>
-                <li class="es-priority">Каратайка</li><li class="es-priority">Хорей-Вер</li><li class="es-priority">Усть-Кара</li><li class="es-priority">Бугрино</li>
+                <li class="es-priority">Каратайка</li><li class="es-priority">Хорей-Вер</li><li class="es-priority">Усть-Кара</li><li class="es-priority">Бугрино</li><li class="es-priority">Несь</li>
+                <li class="es-priority">Нижняя Пеша</li><li class="es-priority">Ома</li><li class="es-priority">Вижас</li><li class="es-priority">Великовисочное</li><li class="es-priority">Хонгурей</li>
+                <li class="es-priority">Каменка</li><li class="es-priority">Тельвиска</li><li class="es-priority">Красное</li><li class="es-priority">Лабожское</li><li class="es-priority">Волоковая</li>
+                <li class="es-priority">Андег</li><li class="es-priority">Черная</li><li class="es-priority">Пылемец</li><li class="es-priority">Коткино</li><li class="es-priority">Хабарное</li>
+                <li class="es-priority">Качгорт</li><li class="es-priority">Нарыга</li><li class="es-priority">Харута</li><li class="es-priority">Лабожское</li><li class="es-priority">Тошвиска</li>
+                <li class="es-priority">Снопа</li><li class="es-priority">Кулой</li><li class="es-priority">Устье</li><li class="es-priority">Ёрна</li><li class="es-priority">Малоземельская</li>
+                <li class="es-priority">Колоколково</li><li class="es-priority">Хорнолемты</li><li class="es-priority">Нерица</li><li class="es-priority">Кия</li><li class="es-priority">Оксино</li>
+                <li class="es-priority">Дресвянка</li><li class="es-priority">Пёша</li><li class="es-priority">Белушье</li><li class="es-priority">Рогачево</li><li class="es-priority">Мыс Желания</li>
+                <li class="es-priority">Малые Кармакулы</li><li class="es-priority">Русская Гавань</li><li class="es-priority">Югорский Шар</li><li class="es-priority">Варнек</li><li class="es-priority">Нельмин Нос</li>
               </ul>
             </div>
             <div class="es-region">
-              <div class="es-region-title">Республика Коми</div>
+              <div class="es-region-title">Республика Коми — север</div>
               <ul class="es-cities">
-                <li>Сыктывкар</li><li>Ухта</li><li class="es-priority">Воркута</li><li class="es-priority">Инта</li><li>Печора</li>
-                <li class="es-priority">Усинск</li><li class="es-priority">Вуктыл</li><li>Сосногорск</li><li>Емва</li><li class="es-priority">Усть-Цильма</li>
-                <li>Микунь</li><li class="es-priority">Троицко-Печорск</li><li class="es-priority">Ижма</li><li>Княжпогост</li>
+                <li class="es-priority">Воркута</li><li class="es-priority">Инта</li><li>Печора</li><li class="es-priority">Усинск</li><li class="es-priority">Вуктыл</li>
+                <li class="es-priority">Усть-Цильма</li><li class="es-priority">Троицко-Печорск</li><li class="es-priority">Ижма</li><li class="es-priority">Щельяюр</li><li class="es-priority">Харьяга</li>
+                <li class="es-priority">Возей</li><li class="es-priority">Кожим</li><li class="es-priority">Елецкий</li><li class="es-priority">Хальмер-Ю</li><li class="es-priority">Лемтыбож</li>
+                <li class="es-priority">Абезь</li><li class="es-priority">Петрунь</li><li class="es-priority">Адзьвавом</li><li class="es-priority">Кочмас</li><li class="es-priority">Усть-Уса</li>
+                <li class="es-priority">Колва</li><li class="es-priority">Хонгурей</li><li class="es-priority">Мутный Материк</li><li class="es-priority">Васькино</li><li class="es-priority">Сивомаскинское</li>
+                <li class="es-priority">Ираель</li><li class="es-priority">Ёрмица</li><li class="es-priority">Бызовая</li><li class="es-priority">Ёрга</li><li class="es-priority">Аранец</li>
+                <li class="es-priority">Мохча</li><li class="es-priority">Синдор</li><li class="es-priority">Нижняя Омра</li><li class="es-priority">Верхняя Омра</li><li class="es-priority">Мошьюга</li>
+                <li class="es-priority">Картаёль</li><li class="es-priority">Чикшино</li><li class="es-priority">Бакур</li><li class="es-priority">Загорье</li><li class="es-priority">Замежная</li>
+                <li class="es-priority">Степановская</li><li class="es-priority">Ерцево</li><li class="es-priority">Вольдино</li><li class="es-priority">Лойма</li><li class="es-priority">Усть-Ухта</li>
+                <li class="es-priority">Соплеск</li><li class="es-priority">Оланец</li><li class="es-priority">Скаляри</li><li class="es-priority">Пожег</li><li class="es-priority">Руч</li>
               </ul>
             </div>
             <div class="es-region">
-              <div class="es-region-title">Республика Карелия</div>
+              <div class="es-region-title">Республика Коми — центр и юг</div>
               <ul class="es-cities">
-                <li>Петрозаводск</li><li>Сегежа</li><li>Костомукша</li><li>Кемь</li><li>Беломорск</li>
-                <li>Медвежьегорск</li><li class="es-priority">Лоухи</li><li>Кондопога</li><li>Сортавала</li><li>Олонец</li>
-                <li>Пудож</li><li>Питкяранта</li><li class="es-priority">Калевала</li>
+                <li>Сыктывкар</li><li>Ухта</li><li>Сосногорск</li><li>Емва</li><li>Микунь</li>
+                <li>Княжпогост</li><li>Объачево</li><li>Визинга</li><li>Корткерос</li><li>Выльгорт</li>
+                <li>Койгородок</li><li>Сыня</li><li>Усть-Кулом</li><li>Усть-Вымь</li><li>Серёгово</li>
+                <li>Жешарт</li><li>Нювчим</li><li>Нижний Одес</li><li>Верхний Одес</li><li>Седкыркещ</li>
+                <li>Чиньяворык</li><li>Помоздино</li><li>Пажга</li><li>Ираёль</li><li>Кослан</li>
+                <li>Летка</li><li>Междуреченск</li><li>Вожаель</li><li>Спаспоруб</li><li>Каджером</li>
+                <li>Прилузье</li><li>Айкино</li><li>Благоево</li><li>Кебанъёль</li><li>Кебра</li>
+                <li>Слудка</li><li>Расью</li><li>Диасёрья</li><li>Донаёль</li><li>Вольдино</li>
+                <li>Дон</li><li>Усть-Нем</li><li>Деревянск</li><li>Иб</li><li>Кельчиюр</li>
+                <li>Тыла</li><li>Вомын</li><li>Занулье</li><li>Подъельск</li><li>Вомынский</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Республика Карелия — север</div>
+              <ul class="es-cities">
+                <li>Кемь</li><li>Беломорск</li><li class="es-priority">Лоухи</li><li class="es-priority">Калевала</li><li>Медвежьегорск</li>
+                <li>Сегежа</li><li class="es-priority">Чупа</li><li class="es-priority">Кестеньга</li><li class="es-priority">Гридино</li><li class="es-priority">Энгозеро</li>
+                <li class="es-priority">Софпорог</li><li class="es-priority">Хетоламбина</li><li class="es-priority">Лендеры</li><li class="es-priority">Нюхча</li><li class="es-priority">Малиновая Варакка</li>
+                <li class="es-priority">Попов Порог</li><li class="es-priority">Амбарный</li><li class="es-priority">Чернозеро</li><li class="es-priority">Вокнаволок</li><li class="es-priority">Войница</li>
+                <li class="es-priority">Боровой</li><li class="es-priority">Панозеро</li><li class="es-priority">Ковда</li><li class="es-priority">Кузема</li><li class="es-priority">Сумский Посад</li>
+                <li class="es-priority">Вирандозеро</li><li class="es-priority">Софпорог</li><li class="es-priority">Идель</li><li class="es-priority">Лувозеро</li><li class="es-priority">Зашейек</li>
+                <li class="es-priority">Выгостров</li><li class="es-priority">Сосновец</li><li class="es-priority">Надвоицы</li><li class="es-priority">Хвойная</li><li class="es-priority">Муезерский</li>
+                <li class="es-priority">Ледмозеро</li><li class="es-priority">Тикша</li><li class="es-priority">Паданы</li><li class="es-priority">Авнепорог</li><li class="es-priority">Пиндуши</li>
+                <li class="es-priority">Гимолы</li><li class="es-priority">Кузаранда</li><li class="es-priority">Юшкозеро</li><li class="es-priority">Толвуя</li><li class="es-priority">Шуньга</li>
+                <li class="es-priority">Валдай</li><li class="es-priority">Тамбицы</li><li class="es-priority">Пелкула</li><li class="es-priority">Реболы</li><li class="es-priority">Вокнаволок</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Республика Карелия — центр и юг</div>
+              <ul class="es-cities">
+                <li>Петрозаводск</li><li>Костомукша</li><li>Кондопога</li><li>Сортавала</li><li>Олонец</li>
+                <li>Пудож</li><li>Питкяранта</li><li>Лахденпохья</li><li>Суоярви</li><li>Муезерский</li>
+                <li>Пряжа</li><li>Деревянка</li><li>Прионежский</li><li>Заозёрный</li><li>Ильинский</li>
+                <li>Петровский</li><li>Шуя</li><li>Эссойла</li><li>Крошнозеро</li><li>Салми</li>
+                <li>Импилахти</li><li>Хелюля</li><li>Куркиёки</li><li>Ляскеля</li><li>Харлу</li>
+                <li>Вяртсиля</li><li>Хаапалампи</li><li>Кааламо</li><li>Рускеала</li><li>Вещёво</li>
+                <li>Видлица</li><li>Обжа</li><li>Ведлозеро</li><li>Святозеро</li><li>Вешкелица</li>
+                <li>Спасская Губа</li><li>Колатсельга</li><li>Гирвас</li><li>Кивач</li><li>Сопоха</li>
+                <li>Космозеро</li><li>Линдозеро</li><li>Паданы</li><li>Авдеево</li><li>Рыборецкое</li>
+                <li>Шокша</li><li>Великая Губа</li><li>Вегарус</li><li>Палалахта</li><li>Миккели</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Вологодская область</div>
+              <ul class="es-cities">
+                <li>Вологда</li><li>Череповец</li><li>Сокол</li><li>Великий Устюг</li><li>Красавино</li>
+                <li>Белозерск</li><li>Кириллов</li><li>Вытегра</li><li>Харовск</li><li>Бабаево</li>
+                <li>Грязовец</li><li>Тотьма</li><li>Устюжна</li><li>Кадников</li><li>Никольск</li>
+                <li class="es-priority">Липин Бор</li><li class="es-priority">Нюксеница</li><li class="es-priority">Тарногский Городок</li><li class="es-priority">Верховажье</li><li class="es-priority">Сямжа</li>
+                <li class="es-priority">Вожега</li><li class="es-priority">Кичменгский Городок</li><li class="es-priority">Устье</li><li class="es-priority">Шуйское</li><li class="es-priority">Чагода</li>
+                <li>Кадуй</li><li>Шексна</li><li>Белый Ручей</li><li>Чебсара</li><li>Суда</li>
+                <li>Вохтога</li><li>Покровское</li><li>Климовское</li><li>Сазоново</li><li>Чёбсара</li>
+                <li>Шухобалово</li><li>Кадниково</li><li>Ботановское</li><li>Климовская</li><li>Кубенское</li>
+                <li>Брагино</li><li>Усть-Кубинское</li><li>Чучково</li><li>Чернево</li><li>Борисово</li>
+                <li>Раменье</li><li>Дороватово</li><li>Федотово</li><li>Кадниковская</li><li>Воскресенское</li>
+                <li>Дубровское</li><li>Мосеево</li><li>Митино</li><li>Семёнково</li><li>Молочное</li>
               </ul>
             </div>
           </div>

@@ -404,6 +404,11 @@
                 <li class="es-priority">Попигай</li><li class="es-priority">Волочанка</li><li class="es-priority">Носок</li><li class="es-priority">Караул</li><li class="es-priority">Курейка</li>
                 <li class="es-priority">Новорыбная</li><li class="es-priority">Усть-Авам</li><li class="es-priority">Сындасско</li><li class="es-priority">Кресты</li><li class="es-priority">Совречка</li>
                 <li class="es-priority">Келлог</li><li class="es-priority">Фарково</li><li class="es-priority">Ванкор</li><li class="es-priority">Нидым</li><li class="es-priority">Кислокан</li>
+                <li class="es-priority">Воронцово</li><li class="es-priority">Потапово</li><li class="es-priority">Левинские Пески</li><li class="es-priority">Жданиха</li><li class="es-priority">Усть-Порт</li>
+                <li class="es-priority">Чиринда</li><li class="es-priority">Сикачи-Алян</li><li class="es-priority">Кузьмовка</li><li class="es-priority">Ошарово</li><li class="es-priority">Сумароково</li>
+                <li class="es-priority">Екучи</li><li class="es-priority">Юкта</li><li class="es-priority">Кузьмовка</li><li class="es-priority">Ванавара</li><li class="es-priority">Чемдальск</li>
+                <li class="es-priority">Ошково</li><li class="es-priority">Нижняя Тунгуска</li><li class="es-priority">Верхнеимбатск</li><li class="es-priority">Советская Речка</li><li class="es-priority">Ангутиха</li>
+                <li class="es-priority">Танама</li><li class="es-priority">Чиринда</li><li class="es-priority">Бурный</li><li class="es-priority">Усть-Енисей</li><li class="es-priority">Подкаменная Тунгуска</li>
               </ul>
             </div>
             <div class="es-region">
@@ -412,31 +417,66 @@
                 <li>Красноярск</li><li>Енисейск</li><li>Лесосибирск</li><li>Ачинск</li><li>Канск</li>
                 <li>Железногорск</li><li>Минусинск</li><li>Зеленогорск</li><li>Назарово</li><li>Шарыпово</li>
                 <li>Боготол</li><li>Дивногорск</li><li>Сосновоборск</li><li>Бородино</li><li>Кодинск</li>
+                <li>Уяр</li><li>Иланский</li><li>Заозёрный</li><li>Мотыгино</li><li>Партизанское</li>
+                <li>Пировское</li><li>Тасеево</li><li>Абан</li><li>Дзержинское</li><li>Казачинское</li>
+                <li>Богучаны</li><li>Эвенкия</li><li>Нижний Ингаш</li><li>Большая Мурта</li><li>Емельяново</li>
+                <li>Сухобузимское</li><li>Балахта</li><li>Большой Улуй</li><li>Новобирилюссы</li><li>Шалинское</li>
+                <li>Курагино</li><li>Шушенское</li><li>Краснотуранск</li><li>Идринское</li><li>Каратузское</li>
+                <li>Ермаковское</li><li>Кошурниково</li><li>Новосёлово</li><li>Туруханск</li><li>Игарка</li>
+                <li>Северо-Енисейск</li><li>Мотыгино</li><li>Кежма</li><li>Богучаны</li><li>Ярцево</li>
+                <li>Атаманово</li><li>Мана</li><li>Берёзовка</li><li>Пировское</li><li>Усть-Кемь</li>
               </ul>
             </div>
             <div class="es-region">
-              <div class="es-region-title">Иркутская область — север</div>
+              <div class="es-region-title">Иркутская область — север и БАМ</div>
               <ul class="es-cities">
                 <li class="es-priority">Бодайбо</li><li class="es-priority">Мама</li><li class="es-priority">Ербогачён</li><li class="es-priority">Киренск</li><li class="es-priority">Усть-Кут</li>
                 <li>Магистральный</li><li>Железногорск-Илимский</li><li class="es-priority">Непа</li><li class="es-priority">Казачинское</li><li class="es-priority">Преображенка</li>
-                <li class="es-priority">Балахнинский</li><li class="es-priority">Артемовский</li><li class="es-priority">Кропоткин</li><li class="es-priority">Подволошино</li>
+                <li class="es-priority">Балахнинский</li><li class="es-priority">Артемовский</li><li class="es-priority">Кропоткин</li><li class="es-priority">Подволошино</li><li class="es-priority">Витимский</li>
+                <li class="es-priority">Карапчанка</li><li class="es-priority">Бодайбо</li><li class="es-priority">Мамакан</li><li class="es-priority">Артемовск</li><li class="es-priority">Балахнинский</li>
+                <li class="es-priority">Луговский</li><li class="es-priority">Догалдын</li><li class="es-priority">Уоян</li><li class="es-priority">Бамбуйка</li><li class="es-priority">Карам</li>
+                <li class="es-priority">Тайшет</li><li class="es-priority">Новобирюсинский</li><li class="es-priority">Улькан</li><li class="es-priority">Вихоревка</li><li class="es-priority">Звёздный</li>
+                <li class="es-priority">Новая Игирма</li><li class="es-priority">Кутулик</li><li class="es-priority">Тулюшка</li><li class="es-priority">Новая Уда</li><li class="es-priority">Невон</li>
+                <li class="es-priority">Ичёра</li><li class="es-priority">Усть-Уда</li><li class="es-priority">Большеречье</li><li class="es-priority">Атагай</li><li class="es-priority">Видим</li>
               </ul>
             </div>
             <div class="es-region">
-              <div class="es-region-title">Иркутская область — центр и юг</div>
+              <div class="es-region-title">Иркутская область — центр, юг и Байкал</div>
               <ul class="es-cities">
                 <li>Иркутск</li><li>Братск</li><li>Ангарск</li><li>Усть-Илимск</li><li>Черемхово</li>
                 <li>Усолье-Сибирское</li><li>Тулун</li><li>Саянск</li><li>Зима</li><li>Нижнеудинск</li>
                 <li>Шелехов</li><li>Свирск</li><li>Бирюсинск</li><li>Слюдянка</li><li>Байкальск</li>
+                <li>Тайшет</li><li>Вихоревка</li><li>Алзамай</li><li>Чунский</li><li>Куйтун</li>
+                <li>Залари</li><li>Балаганск</li><li>Боханы</li><li>Усть-Ордынский</li><li>Оса</li>
+                <li>Жигалово</li><li>Качуг</li><li>Аларь</li><li>Нукуты</li><li>Еланцы</li>
+                <li>Баяндай</li><li>Усть-Уда</li><li>Михайловка</li><li>Смоленщина</li><li>Новонукутский</li>
+                <li>Култук</li><li>Листвянка</li><li>Большое Голоустное</li><li>Бугульдейка</li><li>Еланцы</li>
+                <li>Онохой</li><li>Иркутск-2</li><li>Марково</li><li>Манзурка</li><li>Олха</li>
+                <li>Тельма</li><li>Большая Речка</li><li>Максимовщина</li><li>Оёк</li><li>Горячий Ключ</li>
+                <li>Сосновка</li><li>Бурятия</li><li>Мишелёвка</li><li>Тайтурка</li><li>Уховский</li>
               </ul>
             </div>
             <div class="es-region">
-              <div class="es-region-title">Томская область</div>
+              <div class="es-region-title">Томская область — север и васюганье</div>
               <ul class="es-cities">
-                <li>Томск</li><li>Северск</li><li>Стрежевой</li><li class="es-priority">Каргасок</li><li class="es-priority">Парабель</li>
-                <li class="es-priority">Колпашево</li><li>Кедровый</li><li class="es-priority">Александровское</li><li class="es-priority">Новый Васюган</li><li class="es-priority">Средний Васюган</li>
-                <li>Асино</li><li>Белый Яр</li><li>Подгорное</li><li class="es-priority">Пудино</li><li class="es-priority">Напас</li>
-                <li class="es-priority">Катыльга</li><li class="es-priority">Лукашкин Яр</li>
+                <li class="es-priority">Каргасок</li><li class="es-priority">Парабель</li><li class="es-priority">Колпашево</li><li class="es-priority">Александровское</li><li class="es-priority">Новый Васюган</li>
+                <li class="es-priority">Средний Васюган</li><li class="es-priority">Пудино</li><li class="es-priority">Напас</li><li class="es-priority">Катыльга</li><li class="es-priority">Лукашкин Яр</li>
+                <li class="es-priority">Майск</li><li class="es-priority">Нарым</li><li class="es-priority">Максимкин Яр</li><li class="es-priority">Усть-Озёрное</li><li class="es-priority">Сосновка</li>
+                <li class="es-priority">Новоюгино</li><li class="es-priority">Соснино</li><li class="es-priority">Ванжиль-Кынак</li><li class="es-priority">Новая Тевризка</li><li class="es-priority">Большая Грива</li>
+                <li class="es-priority">Михайловка</li><li class="es-priority">Ласкино</li><li class="es-priority">Нижневартовское</li><li class="es-priority">Новиково</li><li class="es-priority">Южная</li>
+                <li class="es-priority">Староюгино</li><li class="es-priority">Озёрное</li><li class="es-priority">Вертикос</li><li class="es-priority">Тевриз</li><li class="es-priority">Чагва</li>
+              </ul>
+            </div>
+            <div class="es-region">
+              <div class="es-region-title">Томская область — центр и юг</div>
+              <ul class="es-cities">
+                <li>Томск</li><li>Северск</li><li>Стрежевой</li><li>Кедровый</li><li>Асино</li>
+                <li>Белый Яр</li><li>Подгорное</li><li>Бакчар</li><li>Первомайское</li><li>Кривошеино</li>
+                <li>Мельниково</li><li>Зырянское</li><li>Тегульдет</li><li>Молчаново</li><li>Шегарка</li>
+                <li>Итатка</li><li>Богашёво</li><li>Самусь</li><li>Копылово</li><li>Корнилово</li>
+                <li>Калтай</li><li>Тимирязевское</li><li>Заварзино</li><li>Нововасюганский</li><li>Новорождественка</li>
+                <li>Володино</li><li>Рыбалово</li><li>Курлек</li><li>Басандайка</li><li>Зональная Станция</li>
+                <li>Высокое</li><li>Ярское</li><li>Эушта</li><li>Чердатский</li><li>Победа</li>
               </ul>
             </div>
             <div class="es-region">
@@ -446,6 +486,14 @@
                 <li>Междуреченск</li><li>Анжеро-Судженск</li><li>Белово</li><li>Осинники</li><li>Мыски</li>
                 <li>Юрга</li><li>Тайга</li><li>Мариинск</li><li>Топки</li><li>Берёзовский</li>
                 <li>Полысаево</li><li>Гурьевск</li><li>Тисуль</li><li>Таштагол</li><li>Итат</li>
+                <li>Калтан</li><li>Салаир</li><li>Краснобродский</li><li>Грамотеино</li><li>Киселёвск</li>
+                <li>Новокузнецк</li><li>Кемерово</li><li>Мундыбаш</li><li>Темиртау</li><li>Шерегеш</li>
+                <li>Спасск</li><li>Усть-Кабырза</li><li>Шорский</li><li>Орт-Туура</li><li>Красная Горка</li>
+                <li>Промышленная</li><li>Яшкино</li><li>Ижморка</li><li>Чебулы</li><li>Крапивинский</li>
+                <li>Тяжинский</li><li>Ленинск-Кузнецкий</li><li>Терентьевское</li><li>Барзас</li><li>Шахта</li>
+                <li>Прокопьевск</li><li>Зенково</li><li>Морозово</li><li>Тисуль</li><li>Яшкино</li>
+                <li>Новороманово</li><li>Камешек</li><li>Кузедеево</li><li>Малиновка</li><li>Базанча</li>
+                <li>Смолино</li><li>Кемеровская</li><li>Беково</li><li>Зарубино</li><li>Усть-Серта</li>
               </ul>
             </div>
             <div class="es-region">
@@ -453,14 +501,31 @@
               <ul class="es-cities">
                 <li>Новосибирск</li><li>Бердск</li><li>Искитим</li><li>Куйбышев</li><li>Барабинск</li>
                 <li>Каргат</li><li>Черепаново</li><li>Татарск</li><li>Обь</li><li>Кольцово</li>
-                <li>Тогучин</li><li>Болотное</li><li>Купино</li><li>Краснозёрское</li>
+                <li>Тогучин</li><li>Болотное</li><li>Купино</li><li>Краснозёрское</li><li>Чулым</li>
+                <li>Венгерово</li><li>Доволенское</li><li>Кочки</li><li>Коченёво</li><li>Маслянино</li>
+                <li>Мошково</li><li>Ордынское</li><li>Северное</li><li>Сузун</li><li>Убинское</li>
+                <li>Усть-Тарка</li><li>Чаны</li><li>Чистоозёрное</li><li>Карасук</li><li>Баган</li>
+                <li>Здвинск</li><li>Кыштовка</li><li>Колывань</li><li>Ярково</li><li>Верх-Тула</li>
+                <li>Линёво</li><li>Криводановка</li><li>Бердюжье</li><li>Завьялово</li><li>Иня</li>
+                <li>Белоярка</li><li>Огнево-Заимка</li><li>Крутиха</li><li>Верх-Ирмень</li><li>Ложок</li>
+                <li>Мочище</li><li>Бердь</li><li>Морозово</li><li>Раздольное</li><li>Сокур</li>
+                <li>Быстровка</li><li>Новопичугово</li><li>Старые Кармалы</li><li>Шипицыно</li><li>Ояш</li>
+                <li>Тулинский</li><li>Варюхино</li><li>Новошарапово</li><li>Станционно-Ояшинский</li><li>Веснино</li>
               </ul>
             </div>
             <div class="es-region">
               <div class="es-region-title">Омская область</div>
               <ul class="es-cities">
                 <li>Омск</li><li>Тара</li><li>Калачинск</li><li>Исилькуль</li><li>Называевск</li>
-                <li>Тюкалинск</li><li>Муромцево</li><li>Большеречье</li><li>Тевриз</li>
+                <li>Тюкалинск</li><li>Муромцево</li><li>Большеречье</li><li>Тевриз</li><li>Знаменское</li>
+                <li>Саргатское</li><li>Колосовка</li><li>Крутинка</li><li>Большие Уки</li><li>Оконешниково</li>
+                <li>Любинский</li><li>Нововаршавка</li><li>Одесское</li><li>Павлоградка</li><li>Полтавка</li>
+                <li>Русско-Полянское</li><li>Седельниково</li><li>Таврическое</li><li>Тюкалинск</li><li>Шербакуль</li>
+                <li>Марьяновка</li><li>Кормиловка</li><li>Горьковское</li><li>Азово</li><li>Нижняя Омка</li>
+                <li>Черлак</li><li>Усть-Ишим</li><li>Розовка</li><li>Иртышский</li><li>Красноярка</li>
+                <li>Большекулачье</li><li>Лузино</li><li>Нижнеомское</li><li>Ребровка</li><li>Степановка</li>
+                <li>Большегривское</li><li>Новоомский</li><li>Белозерка</li><li>Любино-Малороссы</li><li>Шипуново</li>
+                <li>Кулачинская</li><li>Новотроицкое</li><li>Оглухино</li><li>Викулово</li><li>Карташово</li>
               </ul>
             </div>
             <div class="es-region">
@@ -469,28 +534,55 @@
                 <li>Барнаул</li><li>Бийск</li><li>Рубцовск</li><li>Новоалтайск</li><li>Заринск</li>
                 <li>Камень-на-Оби</li><li>Славгород</li><li>Алейск</li><li>Белокуриха</li><li>Яровое</li>
                 <li>Змеиногорск</li><li>Горняк</li><li>Ключи</li><li>Павловск</li><li>Благовещенка</li>
-                <li>Тальменка</li><li>Поспелиха</li><li>Егорьевск</li><li>Усть-Калманка</li>
+                <li>Тальменка</li><li>Поспелиха</li><li>Егорьевск</li><li>Усть-Калманка</li><li>Мамонтово</li>
+                <li>Ребриха</li><li>Романово</li><li>Родино</li><li>Троицкое</li><li>Целинное</li>
+                <li>Шипуново</li><li>Баево</li><li>Волчиха</li><li>Завьялово</li><li>Залесово</li>
+                <li>Заринск</li><li>Змеиногорск</li><li>Зональное</li><li>Косиха</li><li>Краснощёково</li>
+                <li>Красногорское</li><li>Крутиха</li><li>Кулунда</li><li>Курья</li><li>Кытманово</li>
+                <li>Локоть</li><li>Михайловское</li><li>Новичиха</li><li>Панкрушиха</li><li>Первомайское</li>
+                <li>Петропавловское</li><li>Поспелиха</li><li>Рубцовск</li><li>Смоленское</li><li>Солонешное</li>
+                <li>Солтон</li><li>Советское</li><li>Табуны</li><li>Тальменка</li><li>Топчиха</li>
+                <li>Угловское</li><li>Усть-Пристань</li><li>Усть-Чарышская Пристань</li><li>Хабары</li><li>Чарышское</li>
+                <li>Шелаболиха</li><li>Шипуново</li><li>Ельцовка</li><li>Сростки</li><li>Белоярск</li>
               </ul>
             </div>
             <div class="es-region">
               <div class="es-region-title">Республика Алтай</div>
               <ul class="es-cities">
                 <li>Горно-Алтайск</li><li class="es-priority">Кош-Агач</li><li class="es-priority">Акташ</li><li class="es-priority">Усть-Кокса</li><li class="es-priority">Усть-Кан</li>
-                <li class="es-priority">Турочак</li><li class="es-priority">Онгудай</li><li class="es-priority">Улаган</li>
+                <li class="es-priority">Турочак</li><li class="es-priority">Онгудай</li><li class="es-priority">Улаган</li><li class="es-priority">Шебалино</li><li class="es-priority">Майма</li>
+                <li class="es-priority">Чемал</li><li class="es-priority">Чоя</li><li class="es-priority">Эликмонар</li><li class="es-priority">Усть-Муны</li><li class="es-priority">Ябоган</li>
+                <li class="es-priority">Иня</li><li class="es-priority">Купчегень</li><li class="es-priority">Теректа</li><li class="es-priority">Ело</li><li class="es-priority">Беш-Озёк</li>
+                <li class="es-priority">Кызыл-Озёк</li><li class="es-priority">Усть-Кан</li><li class="es-priority">Огнёвка</li><li class="es-priority">Тюнгур</li><li class="es-priority">Мульта</li>
+                <li class="es-priority">Тюдрала</li><li class="es-priority">Балыкча</li><li class="es-priority">Балыктуюль</li><li class="es-priority">Джазатор</li><li class="es-priority">Бельтир</li>
+                <li class="es-priority">Курай</li><li class="es-priority">Белый Бом</li><li class="es-priority">Чибит</li><li class="es-priority">Балыкча</li><li class="es-priority">Чибитка</li>
               </ul>
             </div>
             <div class="es-region">
               <div class="es-region-title">Республика Хакасия</div>
               <ul class="es-cities">
                 <li>Абакан</li><li>Черногорск</li><li>Саяногорск</li><li>Абаза</li><li>Сорск</li>
-                <li>Аскиз</li><li>Белый Яр</li><li>Шира</li>
+                <li>Аскиз</li><li>Белый Яр</li><li>Шира</li><li>Усть-Абакан</li><li>Бея</li>
+                <li>Боград</li><li>Копьёво</li><li>Таштып</li><li>Вершина Теи</li><li>Верх-Аскиз</li>
+                <li>Арбаты</li><li>Бондарево</li><li>Туим</li><li>Новомарьясово</li><li>Усть-Чуль</li>
+                <li>Малая Сыя</li><li>Большая Сыя</li><li>Приисковый</li><li>Коммунар</li><li>Матур</li>
+                <li>Ефремкино</li><li>Большая Ерба</li><li>Усть-Бюр</li><li>Верх-База</li><li>Усть-Есь</li>
+                <li>Чарков</li><li>Ширинское</li><li>Жемчужный</li><li>Туманный</li><li>Московское</li>
+                <li>Сон</li><li>Очуры</li><li>Балыкса</li><li>Бутрахты</li><li>Малые Арбаты</li>
               </ul>
             </div>
             <div class="es-region">
               <div class="es-region-title">Республика Тыва</div>
               <ul class="es-cities">
                 <li>Кызыл</li><li>Ак-Довурак</li><li>Туран</li><li>Шагонар</li><li>Чадан</li>
-                <li>Тоора-Хем</li><li>Хову-Аксы</li>
+                <li>Тоора-Хем</li><li>Хову-Аксы</li><li>Кызыл-Мажалык</li><li>Сарыг-Сеп</li><li>Сукпак</li>
+                <li class="es-priority">Мугур-Аксы</li><li class="es-priority">Эрзин</li><li class="es-priority">Самагалтай</li><li class="es-priority">Тес-Хем</li><li class="es-priority">Бай-Хаак</li>
+                <li class="es-priority">Бора-Тайга</li><li class="es-priority">Кунгуртуг</li><li class="es-priority">Кызыл-Даг</li><li class="es-priority">Торгалыг</li><li class="es-priority">Балгазын</li>
+                <li class="es-priority">Бай-Тал</li><li class="es-priority">Кызыл-Тайга</li><li class="es-priority">Ийи-Тал</li><li class="es-priority">Каа-Хем</li><li class="es-priority">Суш</li>
+                <li class="es-priority">Ак-Дуруг</li><li class="es-priority">Бай-Даг</li><li class="es-priority">Бурен-Бай-Хаак</li><li class="es-priority">Ий-Май</li><li class="es-priority">Сарыг-Дог</li>
+                <li class="es-priority">Сукпак</li><li class="es-priority">Хандагайты</li><li class="es-priority">Элегест</li><li class="es-priority">Мунгаш-Аксы</li><li class="es-priority">Ак-Чыраа</li>
+                <li class="es-priority">Бай-Тал</li><li class="es-priority">Дурген</li><li class="es-priority">Кундустуг</li><li class="es-priority">Морен</li><li class="es-priority">Хайыракан</li>
+                <li class="es-priority">Терлиг-Хая</li><li class="es-priority">Булун-Терек</li><li class="es-priority">Аянгаты</li><li class="es-priority">Чодураа</li><li class="es-priority">Дус-Даг</li>
               </ul>
             </div>
             <div class="es-region">
@@ -498,7 +590,15 @@
               <ul class="es-cities">
                 <li>Улан-Удэ</li><li>Северобайкальск</li><li>Нижнеангарск</li><li>Гусиноозёрск</li><li>Закаменск</li>
                 <li class="es-priority">Багдарин</li><li class="es-priority">Усть-Баргузин</li><li class="es-priority">Курумкан</li><li class="es-priority">Кичера</li><li class="es-priority">Байкальское</li>
-                <li>Кяхта</li><li>Бабушкин</li><li class="es-priority">Уакит</li><li class="es-priority">Романовка</li>
+                <li>Кяхта</li><li>Бабушкин</li><li class="es-priority">Уакит</li><li class="es-priority">Романовка</li><li>Турунтаево</li>
+                <li>Кабанск</li><li>Селенгинск</li><li>Баргузин</li><li>Монды</li><li>Орлик</li>
+                <li>Иволгинск</li><li>Заиграево</li><li>Хоринск</li><li>Еравна</li><li>Кырен</li>
+                <li>Сосново-Озёрское</li><li>Таксимо</li><li>Бичура</li><li>Мухоршибирь</li><li>Саганнур</li>
+                <li>Бичура</li><li>Заиграево</li><li>Кижинга</li><li>Кяхта</li><li>Петропавловка</li>
+                <li>Тарбагатай</li><li>Мондинск</li><li>Новый Уоян</li><li>Максимиха</li><li>Горячинск</li>
+                <li>Турка</li><li>Аршан</li><li>Жемчуг</li><li>Култук</li><li>Сухая</li>
+                <li>Выдрино</li><li>Танхой</li><li>Утулик</li><li>Мурино</li><li>Слюдянка</li>
+                <li>Энхалук</li><li>Гремячинск</li><li>Новоильинск</li><li>Каменск</li><li>Мысовая</li>
               </ul>
             </div>
           </div>
